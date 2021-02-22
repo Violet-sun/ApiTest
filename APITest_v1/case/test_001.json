@@ -1,0 +1,6 @@
+{
+  "url": "http://$${IP}:$${port}$${getConfigURL}",
+  "method": "get",
+  "header": "",
+  "body":""
+}
